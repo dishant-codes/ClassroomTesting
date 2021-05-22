@@ -1,26 +1,25 @@
 {
   "files": {
     "main.css": "/ClassroomTesting/static/css/main.c6609714.chunk.css",
-    "main.js": "/ClassroomTesting/static/js/main.c633c5fb.chunk.js",
-    "main.js.map": "/ClassroomTesting/static/js/main.c633c5fb.chunk.js.map",
-    "runtime-main.js": "/ClassroomTesting/static/js/runtime-main.65c48167.js",
-    "runtime-main.js.map": "/ClassroomTesting/static/js/runtime-main.65c48167.js.map",
-    "static/js/2.b010685e.chunk.js": "/ClassroomTesting/static/js/2.b010685e.chunk.js",
-    "static/js/2.b010685e.chunk.js.map": "/ClassroomTesting/static/js/2.b010685e.chunk.js.map",
+    "main.js": "/ClassroomTesting/static/js/main.f8318395.chunk.js",
+    "main.js.map": "/ClassroomTesting/static/js/main.f8318395.chunk.js.map",
+    "runtime-main.js": "/ClassroomTesting/static/js/runtime-main.6280ad14.js",
+    "runtime-main.js.map": "/ClassroomTesting/static/js/runtime-main.6280ad14.js.map",
+    "static/js/2.f8db58fe.chunk.js": "/ClassroomTesting/static/js/2.f8db58fe.chunk.js",
+    "static/js/2.f8db58fe.chunk.js.map": "/ClassroomTesting/static/js/2.f8db58fe.chunk.js.map",
     "static/css/3.a076eec1.chunk.css": "/ClassroomTesting/static/css/3.a076eec1.chunk.css",
-    "static/js/3.e1261f77.chunk.js": "/ClassroomTesting/static/js/3.e1261f77.chunk.js",
-    "static/js/3.e1261f77.chunk.js.map": "/ClassroomTesting/static/js/3.e1261f77.chunk.js.map",
-    "static/js/4.221ae501.chunk.js": "/ClassroomTesting/static/js/4.221ae501.chunk.js",
-    "static/js/4.221ae501.chunk.js.map": "/ClassroomTesting/static/js/4.221ae501.chunk.js.map",
+    "static/js/3.9ffb4d37.chunk.js": "/ClassroomTesting/static/js/3.9ffb4d37.chunk.js",
+    "static/js/3.9ffb4d37.chunk.js.map": "/ClassroomTesting/static/js/3.9ffb4d37.chunk.js.map",
+    "static/js/4.504f6020.chunk.js": "/ClassroomTesting/static/js/4.504f6020.chunk.js",
+    "static/js/4.504f6020.chunk.js.map": "/ClassroomTesting/static/js/4.504f6020.chunk.js.map",
     "static/css/5.fcfcd339.chunk.css": "/ClassroomTesting/static/css/5.fcfcd339.chunk.css",
-    "static/js/5.375e75b1.chunk.js": "/ClassroomTesting/static/js/5.375e75b1.chunk.js",
-    "static/js/5.375e75b1.chunk.js.map": "/ClassroomTesting/static/js/5.375e75b1.chunk.js.map",
+    "static/js/5.401a4dd2.chunk.js": "/ClassroomTesting/static/js/5.401a4dd2.chunk.js",
+    "static/js/5.401a4dd2.chunk.js.map": "/ClassroomTesting/static/js/5.401a4dd2.chunk.js.map",
     "index.html": "/ClassroomTesting/index.html",
     "static/css/3.a076eec1.chunk.css.map": "/ClassroomTesting/static/css/3.a076eec1.chunk.css.map",
     "static/css/5.fcfcd339.chunk.css.map": "/ClassroomTesting/static/css/5.fcfcd339.chunk.css.map",
     "static/css/main.c6609714.chunk.css.map": "/ClassroomTesting/static/css/main.c6609714.chunk.css.map",
-    "static/js/2.b010685e.chunk.js.LICENSE.txt": "/ClassroomTesting/static/js/2.b010685e.chunk.js.LICENSE.txt",
-    "static/js/4.221ae501.chunk.js.LICENSE.txt": "/ClassroomTesting/static/js/4.221ae501.chunk.js.LICENSE.txt",
+    "static/js/4.504f6020.chunk.js.LICENSE.txt": "/ClassroomTesting/static/js/4.504f6020.chunk.js.LICENSE.txt",
     "static/media/Subjects.css": "/ClassroomTesting/static/media/img_read.a07bc216.webp",
     "static/media/SSP.470a4941.png": "/ClassroomTesting/static/media/SSP.470a4941.png",
     "static/media/add.1d763f52.jpg": "/ClassroomTesting/static/media/add.1d763f52.jpg",
@@ -32,9 +31,9 @@
     "static/media/sub.4bbe87aa.jpg": "/ClassroomTesting/static/media/sub.4bbe87aa.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.65c48167.js",
-    "static/js/4.221ae501.chunk.js",
+    "static/js/runtime-main.6280ad14.js",
+    "static/js/4.504f6020.chunk.js",
     "static/css/main.c6609714.chunk.css",
-    "static/js/main.c633c5fb.chunk.js"
+    "static/js/main.f8318395.chunk.js"
   ]
 }
